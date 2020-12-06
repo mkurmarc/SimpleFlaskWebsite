@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
+{% extends "base.html" %}
 
-<body>
+{% block title %}Welcome{% endblock %}
+
+{% block content %}
     <h1>Welcome to my page!</h1>
     <p>
         This is the demo application for the course
@@ -23,6 +20,4 @@
             </li>
         {% endfor %}
     </ul>
-</body>
-
-</html>
+{% endblock %}

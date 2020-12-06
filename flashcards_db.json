@@ -1,18 +1,1 @@
-[
-  {
-    "question": "Hello (formal)",
-    "answer": "Hola senor"
-  },
-  {
-    "question": "Goodbye (formal)",
-    "answer": "Hasta Luego"
-  },
-  {
-    "question": "Hello (informal)",
-    "answer": "Hola"
-  },
-  {
-    "question": "Goodbye (informal)",
-    "answer": "Adios"
-  }
-]
+[{"question": "Hello (formal)", "answer": "Hola senor"}, {"question": "Goodbye (formal)", "answer": "Hasta Luego"}, {"question": "Hello (informal)", "answer": "Hola"}]
